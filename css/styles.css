@@ -1,0 +1,26 @@
+* {
+  font-family: helvetica, monospace;
+  font-weight: 200;
+}
+
+button {
+  padding: 6px;
+  background-color: lightblue;
+  color: white;
+  border-radius: 5px;
+  border: 0;
+}
+
+button:hover {
+  background-color: grey;
+}
+
+#container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
