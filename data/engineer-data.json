@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Steve Jobs",
+    "known-for": "Apple",
+    "born": "1955",
+    "education": "Reed College"
+  },
+  {
+    "name": "Bill Gates",
+    "known-for": "Microsoft",
+    "born": "1955",
+    "education": "Harvard"
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "known-for": "the Internet",
+    "born": "1955",
+    "education": ""
+  },
+  {
+    "name": "Steve Wozniak",
+    "known-for": "Apple",
+    "born": "1950",
+    "education": "UC Berkeley"
+  },
+  {
+    "name": "Paul Allen",
+    "known-for": "Microsoft",
+    "born": "1953",
+    "education": "Washington State"
+  }
+]
