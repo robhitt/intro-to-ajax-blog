@@ -11,7 +11,12 @@ function addJackson(){
 
   request.open('GET', url);
 
+  request.onreadystatechange = function() {
+    console.log(this.readyState);
+  }
+
   request.onload = function(){
+    // console.log(this.readyState)
     var jacksonData = JSON.parse(request.responseText);
     renderJackson(jacksonData);
   };

@@ -24,6 +24,11 @@ button:hover {
   padding: 1px 20px 20px 20px;
 }
 
+.innerDiv {
+  margin: 0 auto;
+  text-align: center;
+}
+
 img {
   width: 200px;
   height: 200px;
